@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=3B82BF&center=true&pause=100000&lines=Hi,+I'm+%E5%90%9B%E5%85%A5%E6%A2%A6.+AI+%26+Knowledge+Engineer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=3B82BF&center=true&vCenter=true&width=680&pause=100000&lines=Compound+Engineering+%7C+AI+Knowledge+Systems+%7C+Full-Stack+Builder." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=3B82BF&center=true&pause=100000&lines=Hi,+I'm+%E5%90%9B%E5%85%A5%E6%A2%A6.+AI+%26+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=3B82BF&center=true&vCenter=true&width=680&pause=100000&lines=Compound+Engineering+%7C+Full-Stack+Builder." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>Building interest-bearing knowledge systems with AI.</strong>
@@ -13,7 +13,7 @@
 
 - 我相信知识的复利效应 — 每一次处理都不是结束，而是下一次处理的输入。
 - 目前专注于 **Compound Engineering**（复合工程）：让 AI 帮你搭一套能持续积累、自我修正的系统。
-- 从 AI 应用开发到个人知识管理，我关注的是「可复用且可迭代的方法论」。
+- 从 AI 应用开发到个人知识库管理，我关注的是「可复用且可迭代的方法论」。
 - 如果你对 AI 应用开发、探索AI各种可能性感兴趣，欢迎一起交流。
 
 ### Links
