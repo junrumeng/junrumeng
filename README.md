@@ -39,11 +39,3 @@
     <img src="https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
-
-### Featured
-
-- **[Knowledge Compound Engineering](https://github.com/junrumeng/knowledge-compound-engineering)** — AI 驱动的个人知识管理方法论 + Claude Code Skill。摄取 → 消化 → 输出 → 巡检。
-
-> "不要只让 AI 生成一次性结果。让 AI 帮你搭一个能持续生成结果的系统。"
->
-> "今天是明天的基础。"
